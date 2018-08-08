@@ -1,0 +1,14 @@
+{
+  "FileVersion": 2,
+  "Id": "66eea1dd-3767-45a7-87f2-1e0ac5dde578",
+  "Items": [
+    {
+      "Id": "67f8d6be-df23-4788-89a1-8e87fcff9bc2",
+      "Command": "-p \"Rated Albums\""
+    },
+    {
+      "Id": "61eec56d-5e11-4fe0-9440-9321998be50e",
+      "Command": "-e \"MusicBee\""
+    }
+  ]
+}
